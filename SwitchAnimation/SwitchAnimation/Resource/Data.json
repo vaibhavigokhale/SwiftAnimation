@@ -1,0 +1,81 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "Charley Rivers",
+            "date": "2024-01-06T01:16:38+05:30",
+            "image": "charleyrivers.jpg",
+            "additionalImagesCount": 2
+        },
+        {
+            "id": "2",
+            "title": "Chilkoot Trail",
+            "date": "2024-01-07T01:16:38+05:30",
+            "image": "chilkoottrail.jpg",
+            "additionalImagesCount": 0
+        },
+        {
+            "id": "3",
+            "title": "Chincoteague",
+            "date": "2024-01-08T01:16:38+05:30",
+            "image": "chincoteague.jpg",
+            "additionalImagesCount": 1
+        },
+        {
+            "id": "4",
+            "title": "Hidden Lake",
+            "date": "2024-01-08T01:16:38+05:30",
+            "image": "hiddenlake.jpg",
+            "additionalImagesCount": 2
+        },
+        {
+            "id": "5",
+            "title": "Icy Bay",
+            "date": "2024-01-08T01:16:38+05:30",
+            "image": "icybay.jpg",
+            "additionalImagesCount": 1
+        },
+        {
+            "id": "6",
+            "title": "Lake McDonald",
+            "date": "2024-01-08T01:16:38+05:30",
+            "image": "lakemcdonald.jpg",
+            "additionalImagesCount": 3
+        },
+        {
+            "id": "7",
+            "title": "Rainbow Lake",
+            "date": "2024-01-08T01:16:38+05:30",
+            "image": "rainbowlake.jpg",
+            "additionalImagesCount": 3
+        },
+        {
+            "id": "8",
+            "title": "Silver Salmon Creek",
+            "date": "2024-01-08T01:16:38+05:30",
+            "image": "silversalmoncreek.jpg",
+            "additionalImagesCount": 2
+        },
+        {
+            "id": "9",
+            "title": "Saint Mary Lake",
+            "date": "2024-01-08T01:16:38+05:30",
+            "image": "stmarylake.jpg",
+            "additionalImagesCount": 1
+        },
+        {
+            "id": "10",
+            "title": "Twin Lakes",
+            "date": "2024-01-08T01:16:38+05:30",
+            "image": "twinlake.jpg",
+            "additionalImagesCount": 0
+        },
+        {
+            "id": "11",
+            "title": "Umbagog Lake",
+            "date": "2024-01-08T01:16:38+05:30",
+            "image": "umbagog.jpg",
+            "additionalImagesCount": 1
+        }
+    ]
+}
